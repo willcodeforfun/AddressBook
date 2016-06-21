@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="properties"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="F:/coding test/codingTest/lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/coding test/codingTest/lib/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

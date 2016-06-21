@@ -1,0 +1,49 @@
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Print the unique contacts across all the address books 
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added address book: Delta
+DEBUG main com.au.impl.AddressBookUtil - Added address book: Alpha
+DEBUG main com.au.impl.AddressBookUtil - Added address book: Tango
+DEBUG main com.au.impl.AddressBookUtil - Address books sorted
+DEBUG main com.au.impl.AddressBookUtil - Print the contacts of the address book/s 
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added address book: MyAddressBook
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Removed contact from address book NewAddressBook2
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Print the contacts of the address book/s 
+DEBUG main com.au.data.Books - removed all address books
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added address book: NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook2
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Added new contact to address book NewAddressBook
+DEBUG main com.au.impl.AddressBookUtil - Print the contacts of the address book
+DEBUG main com.au.data.Books - removed all address books
